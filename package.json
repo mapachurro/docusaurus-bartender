@@ -1,0 +1,36 @@
+{
+  "name": "docusaurus-bartender",
+  "version": "0.1.0",
+  "description": "Automatic sidebar generator for Docusaurus based on directory structure and frontmatter",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "docusaurus-bartender": "./bin/bartender.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docusaurus",
+    "sidebar",
+    "generator",
+    "documentation"
+  ],
+  "author": "mapachurro",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "commander": "^9.4.0"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/docusaurus-bartender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/docusaurus-bartender/issues"
+  },
+  "homepage": "https://github.com/yourusername/docusaurus-bartender#readme"
+}
