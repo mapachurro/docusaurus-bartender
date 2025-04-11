@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    // "bartend": "" This script would initialize ./scripts/bartender.js, I believe
   },
   "keywords": [
     "docusaurus",
@@ -27,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/docusaurus-bartender.git"
+    "url": "git+https://github.com/mapachurrodocusaurus-bartender.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/docusaurus-bartender/issues"
+    "url": "https://github.com/mapachurro/docusaurus-bartender/issues"
   },
-  "homepage": "https://github.com/yourusername/docusaurus-bartender#readme"
+  "homepage": "https://github.com/mapachurro/docusaurus-bartender#readme"
 }
