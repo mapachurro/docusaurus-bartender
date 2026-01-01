@@ -8,8 +8,8 @@
     "docusaurus-bartender": "./bin/bartender.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    // "bartend": "" This script would initialize ./scripts/bartender.js, I believe
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bartend": ""
   },
   "keywords": [
     "docusaurus",
