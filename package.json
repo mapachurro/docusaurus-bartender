@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-bartender",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Automatic sidebar generator for Docusaurus based on directory structure and frontmatter",
   "main": "src/index.js",
   "type": "module",
